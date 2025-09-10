@@ -60,7 +60,7 @@ We’ll use **PostgreSQL** (aka Postgres/PG/psql).
 - Powerful and feature-rich
 - Extremely popular
 
-### Install on Ubuntu
+## Install on Ubuntu
 ```bash
 sudo apt install postgresql
 ````
